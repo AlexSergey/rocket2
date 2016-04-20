@@ -16,6 +16,8 @@ This is little single page application can run isomorphic and include routing, t
 - <pre>npm run metrics</pre> -  run Plato for code analyses. All reports you can find in reports folder
 - <pre>npm run count</pre> -  run Sloc for calculate code numbers
 
+You can add your custom settings for webpack in <strong>config.js</strong>
+
 ### Babel:
 - preset-es2015 - support all specification ES2015
 - preset-react - support JSX
